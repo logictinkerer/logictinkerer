@@ -3,20 +3,20 @@
 ![](https://komarev.com/ghpvc/?username=logictinkerer&label=PROFILE+VIEWS)
 
 ```python
-class AbdulSalam:
+class Abdelsalam:
 
     def __init__(self):
-        self.alias = 'Canuck Cowboy'
+        self.alias = 'Abdelsalam Alp'
         self.everything = 'Computer Networking'
         self.role = 'Network Administrator'
         self.passion = ['Network Security', 'Network Operations', 'Network Automation']
         self.goal = 'Enhancing InterPlanetary Networks'
-        self.github_url = 'https://github.com/canuck-cowboy/'
+        self.github_url = 'https://github.com/abdelsalamalp/'
 
     def say_hello(self):
-        print(f'I’m the {self.alias}. I build networks and redefine limits, by the will of Allah.\n'
+        print(f'I am {self.alias}. I build what must endure, by the will of Allah.\n'
               f'{self.everything} is not a vocation. For me, it\'s everything.\n'
-              f'Python is my zulfiqar — the sword I wield to cut through any problem, fast and clean.')
+              f'Python is my zulfiqar — the sword I wield to cut through any problem inshaAllah...')
 
     def showcase_projects(self):
         projects = [
@@ -24,15 +24,14 @@ class AbdulSalam:
             {'name': 'Stellar Stream', 'repo_suffix': 'Stellar-Stream'},
             {'name': 'Extremis', 'repo_suffix': 'Extremis'}
         ]
-        print('\nHere’s a few shots fired from this network frontier:')
+        print('\nA man is known by what he builds, not what he claims')
         for project in projects:
             print(f'- {project["name"]}: {self.github_url}{project["repo_suffix"]}')
 
 
-# Deploying The Canuck Cowboy
-canuck_cowboy = AbdulSalam()
-canuck_cowboy.say_hello()
-canuck_cowboy.showcase_projects()
+abdelsalamalp = Abdelsalam()
+abdelsalamalp.say_hello()
+abdelsalamalp.showcase_projects()
 ```
 ## 🐍 I am a Pythonista and a Pythoneer
 
