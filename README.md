@@ -39,7 +39,8 @@ abdelsalamalp.showcase_projects()
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="65" height="65" />
 </div>
 
-It’s a language for thinkers. When I write Python, I don’t feel like I’m programming—I feel like I’m expressing thoughts clearly, almost the same way I would write them on paper. That clarity is priceless 💻
+Python is a language of understanding. When I use it, my thoughts find order instead of noise.
+Clarity is not convenience — it is a form of knowledge, and it is precious. 💻
 
 
 ## 🛠️ Computational Core 
